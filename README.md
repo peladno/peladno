@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 # 👋 Hi, I’m Javier (@peladno)<br><br>
+# Tokyo 42 student
 ### 👨‍💻 Frontend Developer | TypeScript Enthusiast | Learning C & Systems Programming<br><br>
 
 - 🔭 I’m currently building backend projects with **TypeScript, Node.js (ESM), Express, Prisma and Docker**.<br>
