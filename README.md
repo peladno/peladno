@@ -134,7 +134,7 @@ class Developer:
         <img height="165em" src="https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=Javier%20%27s%20stats&include_all_commits=true&theme=default_repocard" alt="Javier's GitHub Stats" />
       </td>
       <td>
-        <img height="165em" src="https://streak-stats.demolab.com/?user=peladno&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" alt="Javier's GitHub Streak" />
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Peladno&timezone=Asia%2FTokyo&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
       </td>
     </tr>
   </table>
