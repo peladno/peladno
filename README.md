@@ -148,6 +148,6 @@ class Developer:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=peladno)
+![Profile Views](https://komarev.com/ghpvc/?username=peladno)
 
 </div>
