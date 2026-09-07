@@ -1,0 +1,63 @@
+<svg width="850" height="150" viewBox="0 0 850 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-c" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="border-c" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00599C" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.1" />
+    </linearGradient>
+    <radialGradient id="glow-c" cx="15%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00599C" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#00599C" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="c-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00599C" />
+      <stop offset="100%" stop-color="#283593" />
+    </linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(255, 255, 255, 0.04)" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect x="2" y="2" width="846" height="146" rx="14" fill="url(#bg-c)" />
+  <rect x="2" y="2" width="846" height="146" rx="14" fill="url(#grid)" />
+  <rect x="2" y="2" width="846" height="146" rx="14" fill="url(#glow-c)" />
+  <rect x="2" y="2" width="846" height="146" rx="14" fill="none" stroke="url(#border-c)" stroke-width="2" />
+
+  <!-- Official 42 School Logo -->
+  <g transform="translate(42, 38) scale(3.1)">
+    <path d="M19.581 16.851H24v-4.439ZM24 3.574h-4.419v4.42l-4.419 4.418v4.44h4.419v-4.44L24 7.993Zm-4.419 0h-4.419v4.42zm-6.324 8.838H4.419l8.838-8.838H8.838L0 12.412v3.595h8.838v4.419h4.419z" fill="#00D2FF"/>
+  </g>
+
+  <!-- C Language Logo -->
+  <g transform="translate(160, 39)">
+    <path d="M33 3 L63 20 L63 54 L33 71 L3 54 L3 20 Z" fill="url(#c-grad)" stroke="#38bdf8" stroke-width="2" />
+    <path d="M43 23 C40 20 35 18 30 20 C20 23 16 34 19 45 C22 53 29 56 37 54 C42 52 44 49 46 46 L37 42 C35 44 32 46 29 45 C24 44 22 40 23 36 C24 31 27 27 32 27 C35 27 37 29 39 31 Z" fill="#FFFFFF" />
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="260" y="58" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="800" letter-spacing="0.5">42 TOKYO — C PROJECTS</text>
+  <text x="260" y="85" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400">Low-Level Systems • Pointer Arithmetic • Memory Allocation • POSIX</text>
+
+  <!-- Tags -->
+  <g transform="translate(260, 102)">
+    <rect x="0" y="0" width="70" height="22" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="15" fill="#38bdf8" font-family="monospace" font-size="11" font-weight="600" text-anchor="middle">libft</text>
+
+    <rect x="80" y="0" width="105" height="22" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="132" y="15" fill="#38bdf8" font-family="monospace" font-size="11" font-weight="600" text-anchor="middle">get_next_line</text>
+
+    <rect x="195" y="0" width="80" height="22" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="235" y="15" fill="#38bdf8" font-family="monospace" font-size="11" font-weight="600" text-anchor="middle">ft_printf</text>
+
+    <rect x="285" y="0" width="90" height="22" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="330" y="15" fill="#38bdf8" font-family="monospace" font-size="11" font-weight="600" text-anchor="middle">push_swap</text>
+
+    <rect x="385" y="0" width="90" height="22" rx="6" fill="#00599C" fill-opacity="0.3" stroke="#00599C" stroke-width="1"/>
+    <text x="430" y="15" fill="#60a5fa" font-family="monospace" font-size="11" font-weight="700" text-anchor="middle">Norminette</text>
+  </g>
+</svg>

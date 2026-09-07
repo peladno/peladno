@@ -1,83 +1,158 @@
-<div style="font-size: 0.85rem">
+<div align="center">
 
-# 💫 About Me:
-# 👋 Hi, I’m Javier (@peladno)<br><br>
-# https://portfolio.j-perezurrutia.workers.dev
-# Tokyo 42 student
-### 👨‍💻 Frontend Developer | TypeScript & Python Enthusiast | Learning C & Systems Programming<br><br>
+# 👋 Hi there, I'm Javier (`@peladno`)
 
-- 🔭 I’m currently building backend projects with **TypeScript, Node.js (ESM), Express, Prisma and Docker**.<br>
-- 🌱 Expanding my skills into **C programming** and preparing for the **42 curriculum**.<br>
-- 👀 I’m interested in **food, photography, bicycles, and code**.<br>
-- 🤝 I’m open to collaborating on **web apps**, especially projects involving architecture, permissions, or developer tooling.<br>
-- 📚 I love documenting workflows, optimizing environments, and learning new patterns.<br>
-- 📫 Reach me at **j.perezurrutia@gmail.com**<br><br>
+### 🎓 42 Tokyo Student &nbsp;|&nbsp; 💻 Full-Stack &amp; Systems Developer
 
----
+**Bridging modern web architectures with low-level systems programming**
 
-### 🛠️ Tech Stack  
-**Languages:** TypeScript, JavaScript, C, Python  <br>
-**Backend:** Node.js (ESM), Express, Prisma  <br>
-**Tools:** Docker, GitHub, VSCode  <br>
-**Other interests:** Config management, reproducible builds, collaborative apps<br><br>
-**Currently studying Go
-
----
-
-### 📈 What I’m working on  
-- A collaborative calendar app with a clean backend architecture  <br>
-- Improving my C fundamentals (pointers, memory, execution flow)  <br>
-- Building a portfolio that showcases maintainable, scalable backend design  <br><br>
+<p align="center">
+  <a href="https://portfolio.j-perezurrutia.workers.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/javier-perez-u" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:j.perezurrutia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/pelad.no" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
-
-### 📸 Outside of code  
-I enjoy experimenting with photography, exploring new food spots, and learning anything that helps me grow as a developer.<br>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pelad.no)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-perez-u)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:j.perezurutia@gmail.com)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=peladno&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=peladno&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=peladno&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=peladno&icon=4&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
+## 💫 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🏫 **42 Tokyo Student**: Deep diving into the 42 curriculum with rigorous peer-to-peer evaluations and strict norm compliance.
+- 🔭 **Backend & Fullstack**: Building clean, maintainable web apps using **TypeScript, Node.js (ESM), Express, Prisma, and Docker**.
+- 🌱 **Systems & Low-Level**: Mastering **C** fundamentals (pointers, dynamic memory management, Unix file descriptors, POSIX).
+- 🚀 **Currently Exploring**: **Go (Golang)** for high-throughput concurrent microservices and tooling.
+- 👀 **Outside of Code**: Passionate about photography 📸, discovering gastronomy & food spots 🍜, and bicycles 🚲.
+
+---
+
+## 🗂️ Categories by Language & Ecosystem
+
+### ⚡ 42 School — C Programming
+
+<p align="center">
+  <a href="https://github.com/stars/peladno/lists/42c">
+    <img src="assets/42_c.svg" alt="42 Tokyo C Projects" width="100%" />
+  </a>
+</p>
+
+> **Core Focus:** Unix system calls, memory management (`malloc`/`free`), pointer manipulation, algorithm optimization (`push_swap`), and custom re-implementations of standard library utilities (`libft`, `ft_printf`, `get_next_line`).
+
+```c
+/* Low-level mastery & strictly compliant with 42 Norminette */
+typedef struct s_developer {
+    char    *name;      /* "Javier" */
+    char    *school;    /* "42 Tokyo" */
+    char    *status;    /* "Pointers & Algorithms" */
+}   t_dev;
+```
+
+---
+
+### 🐍 42 School — Python
+
+<p align="center">
+  <a href="https://github.com/stars/peladno/lists/42python">
+    <img src="assets/42_python.svg" alt="42 Tokyo Python Projects" width="100%" />
+  </a>
+</p>
+
+> **Core Focus:** Object-Oriented Programming, clean scripting, data manipulation, automation, and full-stack integration with Python 3.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Javier"
+        self.school = "42 Tokyo"
+        self.skills = ["OOP", "Data Structures", "Automation", "REST APIs"]
+```
+
+---
+
+### 🌐 TypeScript & Web Ecosystem
+
+<p align="center">
+  <a href="https://github.com/stars/peladno/lists/ts-and-js">
+    <img src="assets/category_typescript.svg" alt="TypeScript & Web Development" width="100%" />
+  </a>
+</p>
+
+> **Core Focus:** Modern reactive user interfaces, clean modular architectures, type-safe database ORM integrations, and reproducible fullstack environments.
+
+---
+
+### 🟢 Node.js & Backend Architecture
+
+<p align="center">
+  <a href="https://github.com/stars/peladno/lists/node-js">
+    <img src="assets/category_nodejs.svg" alt="Node.js & Backend Architecture" width="100%" />
+  </a>
+</p>
+
+> **Core Focus:** ESM-based architecture, RESTful API design with Express, Prisma ORM schema modeling, PostgreSQL, and scalable microservices.
+
+---
+
+<!-- ### 🚀 Go & Backend Systems
+
+<p align="center">
+  <a href="https://github.com/peladno?tab=repositories&q=go">
+    <img src="assets/category_go.svg" alt="Go & Backend Systems" width="100%" />
+  </a>
+</p>
+
+> **Core Focus:** High-performance RESTful APIs, concurrent pipelines, containerization with Docker, and scalable microservices.
+
+--- -->
+
+## 🛠️ Comprehensive Tech Stack
+
+| Domain                 | Technologies &amp; Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages**          | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)                                                                                                                                                                                                                                   |
+| **Frontend**           | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=D04A37) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=sass&logoColor=white)                                                                                                            |
+| **Backend &amp; DB**   | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **DevOps &amp; Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)                                                                                                                                                                                                                                                      |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=peladno&show_icons=true&theme=tokyonight&hide_border=true" alt="Javier's GitHub Stats" />
+      </td>
+      <td>
+        <img height="165em" src="https://nirzak-streak-stats.vercel.app/?user=peladno&theme=tokyonight&hide_border=true" alt="Javier's GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peladno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+
+### ✍️ Daily Inspiration
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=peladno&icon=4&color=0)](https://visitcount.itsvg.in)
+
+</div>

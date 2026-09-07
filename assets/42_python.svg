@@ -1,0 +1,61 @@
+<svg width="850" height="150" viewBox="0 0 850 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-py" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c120e" />
+      <stop offset="50%" stop-color="#111c1e" />
+      <stop offset="100%" stop-color="#1b2838" />
+    </linearGradient>
+    <linearGradient id="border-py" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3776AB" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#FFD43B" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.1" />
+    </linearGradient>
+    <radialGradient id="glow-py" cx="15%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3776AB" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#FFD43B" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid-py" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(255, 255, 255, 0.04)" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect x="2" y="2" width="846" height="146" rx="14" fill="url(#bg-py)" />
+  <rect x="2" y="2" width="846" height="146" rx="14" fill="url(#grid-py)" />
+  <rect x="2" y="2" width="846" height="146" rx="14" fill="url(#glow-py)" />
+  <rect x="2" y="2" width="846" height="146" rx="14" fill="none" stroke="url(#border-py)" stroke-width="2" />
+
+  <!-- Official 42 School Logo -->
+  <g transform="translate(42, 38) scale(3.1)">
+    <path d="M19.581 16.851H24v-4.439ZM24 3.574h-4.419v4.42l-4.419 4.418v4.44h4.419v-4.44L24 7.993Zm-4.419 0h-4.419v4.42zm-6.324 8.838H4.419l8.838-8.838H8.838L0 12.412v3.595h8.838v4.419h4.419z" fill="#00D2FF"/>
+  </g>
+
+  <!-- Python Logo -->
+  <g transform="translate(160, 39) scale(0.55)">
+    <!-- Blue snake top -->
+    <path d="M59.6 0.1C27.1 0.1 29.1 14.1 29.1 14.1L29.2 28.7H59.9V33.3H17.4C1.9 33.3 0 44.5 0 57.6C0 70.8 13.5 70.1 13.5 70.1H21.5V59C21.5 46.2 32.3 46.1 32.3 46.1H60C70.6 46.1 72.3 35.8 72.3 35.8V11.5C72.3 11.5 73.6 0.1 59.6 0.1ZM43.8 8.8C47.2 8.8 49.9 11.5 49.9 14.9C49.9 18.2 47.2 20.9 43.8 20.9C40.5 20.9 37.8 18.2 37.8 14.9C37.8 11.5 40.5 8.8 43.8 8.8Z" fill="#3776AB"/>
+    <!-- Yellow snake bottom -->
+    <path d="M60.4 120C92.9 120 90.9 106 90.9 106L90.8 91.4H60.1V86.8H102.6C118.1 86.8 120 75.6 120 62.5C120 49.3 106.5 50 106.5 50H98.5V61.1C98.5 73.9 87.7 74 87.7 74H60C49.4 74 47.7 84.3 47.7 84.3V108.6C47.7 108.6 46.4 120 60.4 120ZM76.2 111.3C72.8 111.3 70.1 108.6 70.1 105.2C70.1 101.9 72.8 99.2 76.2 99.2C79.5 99.2 82.2 101.9 82.2 105.2C82.2 108.6 79.5 111.3 76.2 111.3Z" fill="#FFD43B"/>
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="260" y="58" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="800" letter-spacing="0.5">42 TOKYO — PYTHON PROJECTS</text>
+  <text x="260" y="85" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400">Object-Oriented Programming • Data Manipulation • Automation &amp; Web</text>
+
+  <!-- Tags -->
+  <g transform="translate(260, 102)">
+    <rect x="0" y="0" width="80" height="22" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="40" y="15" fill="#facc15" font-family="monospace" font-size="11" font-weight="600" text-anchor="middle">Python 3</text>
+
+    <rect x="90" y="0" width="105" height="22" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="142" y="15" fill="#60a5fa" font-family="monospace" font-size="11" font-weight="600" text-anchor="middle">Piscine Python</text>
+
+    <rect x="205" y="0" width="85" height="22" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="247" y="15" fill="#facc15" font-family="monospace" font-size="11" font-weight="600" text-anchor="middle">OOP / Data</text>
+
+    <rect x="300" y="0" width="95" height="22" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="347" y="15" fill="#60a5fa" font-family="monospace" font-size="11" font-weight="600" text-anchor="middle">Automation</text>
+
+    <rect x="405" y="0" width="80" height="22" rx="6" fill="#3776AB" fill-opacity="0.3" stroke="#3776AB" stroke-width="1"/>
+    <text x="445" y="15" fill="#93c5fd" font-family="monospace" font-size="11" font-weight="700" text-anchor="middle">Scripts</text>
+  </g>
+</svg>
