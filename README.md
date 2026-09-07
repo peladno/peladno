@@ -131,15 +131,10 @@ class Developer:
   <table border="0">
     <tr>
       <td>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=peladno&show_icons=true&theme=tokyonight&hide_border=true" alt="Javier's GitHub Stats" />
+        <img height="165em" src="https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=Javier%20%27s%20stats&include_all_commits=true&theme=default_repocard" alt="Javier's GitHub Stats" />
       </td>
       <td>
-        <img height="165em" src="https://nirzak-streak-stats.vercel.app/?user=peladno&theme=tokyonight&hide_border=true" alt="Javier's GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peladno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img height="165em" src="https://streak-stats.demolab.com/?user=peladno&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" alt="Javier's GitHub Streak" />
       </td>
     </tr>
   </table>
